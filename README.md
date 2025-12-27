@@ -29,6 +29,12 @@ This project analyzes stroke and cardiovascular disease risk factors using healt
 ### Correlation Heatmap
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
+### ROC Curve
+![ROC Curve](images/roc_curve.png)
+
+### Model Performance Comparison
+![Model Performance](images/model_performance.png)
+
 ---
 
 ## Code
