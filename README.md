@@ -1,14 +1,8 @@
 # Stroke Risk Prediction using Machine Learning
 
-This project assesses the risk factors associated with stroke using data from the Behavioral Risk Factor Surveillance System (BRFSS) survey. By combining exploratory data analysis, statistical hypothesis testing, and multiple machine learning classification models, the study aims to identify significant predictors of stroke and evaluate model performance for accurate risk prediction.
+Stroke is a leading cause of mortality and long-term disability worldwide, driven by a combination of demographic, clinical, and lifestyle-related risk factors. This project utilizes data from over 40,000 individuals collected through the Behavioral Risk Factor Surveillance System (BRFSS) survey to analyze stroke risk using exploratory data analysis, statistical hypothesis testing, and machine learning techniques.
 
----
-
-## Introduction
-
-Stroke is a leading cause of mortality and long-term disability worldwide. Using the 2015 BRFSS survey dataset, this project applies machine learning techniques to analyze and predict stroke risk based on demographic, clinical, and lifestyle factors. Previous studies have shown that modifiable factors such as hypertension, diabetes, obesity, and smoking significantly contribute to stroke-related morbidity and mortality.
-
-The dataset includes key variables such as age, gender, BMI, smoking habits, physical activity, dietary choices, and medical history. The goal of this project is to derive actionable insights that can assist healthcare professionals, inform public health policies, and empower individuals to manage stroke risk effectively.
+The analysis focuses on key predictors such as age, gender, hypertension, heart disease, body mass index (BMI), smoking status, and average glucose levels. Multiple classification models—including Logistic Regression, K-Nearest Neighbors (KNN), Random Forest, and CatBoost—are implemented to estimate stroke occurrence and compare predictive performance. The findings aim to support data-driven, evidence-based strategies for stroke prevention and public health decision-making.
 
 ---
 
